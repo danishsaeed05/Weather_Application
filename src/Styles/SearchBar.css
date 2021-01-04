@@ -1,0 +1,25 @@
+.location-search-input {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.autocomplete-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.autocomplete-dropdown-container {
+  background-color: rgba(255, 255, 255, 1);
+  position: absolute;
+  width: 80%;
+  margin: auto; 
+  align-content: center;
+  align-self: center;
+  text-align: center;
+  justify-content: center;
+}
